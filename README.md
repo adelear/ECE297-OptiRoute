@@ -1,4 +1,4 @@
-# OptiRoute_ECE297
+# ECE297-OptiRoute
  OptiRoute is our own custom Geographic Information System (GIS) built entirely in C++. We developed the map implementation from scratch with a focus on usability, responsiveness, and scalability. The system includes robust pathfinding functionality, featuring both the A* algorithm and a greedy algorithm with simulated annealing to explore solutions to the Traveling Salesman Problem. Designed with a user-friendly interface and informed by usability testing, this project showcases how complex algorithms can be applied in a practical GIS environment while laying the groundwork for future extensions and applications.
 
 # **Key Features**
